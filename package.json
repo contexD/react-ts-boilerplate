@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "Max Ziegler",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/react": "^16.9.49",
     "@types/react-dom": "^16.9.8",
